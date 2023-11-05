@@ -133,7 +133,9 @@
 
         background: none;
         justify-content: flex-start;
-        padding-inline: 7rem;
+        margin:2.5rem 7rem 7rem;
+
+        height: fit-content;
     }
     header img {
         width: 10rem;
