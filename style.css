@@ -98,6 +98,7 @@
 
   .login button {
     margin-top: 1rem;
+    margin-bottom: 2rem;
     padding-block: 1.6rem;
     width: 100%;
     background: var(--purple);
